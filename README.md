@@ -1,12 +1,44 @@
-# React + Vite
+# React Portfolio - Gersombs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gersombs/react-portfolio/blob/main/LICENSE)
+[![Website](https://img.shields.io/website-up-down-green-red/https/gersombs.github.io/react-portfolio.svg)](https://gersombs.github.io/react-portfolio/)
 
-Currently, two official plugins are available:
+Welcome to my professional portfolio built with React! This modern single-page application showcases my skills, projects, and professional journey in web development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design**: Works seamlessly on all devices
+- **Project Showcase**: Interactive display of featured work
+- **Skills Matrix**: Visual representation of technical competencies
+- **Contact Form**: Direct communication channel
+- **Dynamic Content**: Easy updates through configuration files
+- **Dark/Light Mode**: Optional theme toggle (if implemented)
+
+## 🛠 Technologies Used
+- React.js
+
+- React Router
+
+- CSS Modules
+
+- GitHub Pages
+
+- Framer Motion (if used)
+
+- React Icons (if used)
+
+## 🤝 Contributing
+While this is a personal portfolio, suggestions and improvements are welcome! Please open an issue first to discuss changes.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📬 Contact
+- **Portfolio**: gersombs.github.io/react-portfolio
+
+- **GitHub**: @gersombs
+
+
+## ⭐ Feel free to star the repository if you find it useful!
